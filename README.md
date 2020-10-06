@@ -17,3 +17,10 @@ This video explains how it works!
 ```<language>
     OBSDEF:{Scene name as it appears in OBS}
 ```
+
+## Resources
+* [Open Broadcaster Software®️](https://obsproject.com/download)
+
+* [OBS Download](https://obsproject.com/)
+
+* [OBS Websocket](https://github.com/Palakis/obs-websocket/releases)
